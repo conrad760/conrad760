@@ -18,7 +18,7 @@ I have built large-scale data solutions and managed teams across time zones. I h
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> [Python][python]
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="20" height="20"/> [Rust][rust]
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="20" height="20"/> [Rust][rust]
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> [JavaScript][javascript]
 
