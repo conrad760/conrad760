@@ -1,6 +1,6 @@
 # Hi there, I'm Conrad
 
-## Business Owner / Developer / Working with LTK!
+## Developer / Building LTK!
 
 I have built large-scale data solutions and managed teams across time zones. I have developed easily testable systems to support millions of active users. I have proudly produced code that directly generated millions in revenue by rethinking system-level designs. Whatever it is that you need, I will dive in and work my way up from the fundamentals and develop innovative solutions to achieve outstanding results.
 
