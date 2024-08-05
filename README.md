@@ -1,4 +1,4 @@
-# Hi there, I'm Conrad
+# I'm Conrad
 
 ## Developer / Building LTK!
 
